@@ -22,7 +22,7 @@ function Stack() {
 
 
     <div class="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none flex">
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md rounded-lg sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Back End Development
@@ -127,7 +127,7 @@ function Stack() {
 
 
 
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md bg-white rounded-lg shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Front End Developmenet
@@ -224,7 +224,7 @@ function Stack() {
 
 
 
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md bg-white rounded-lg shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Cloud and DevOps
@@ -320,7 +320,7 @@ function Stack() {
         </div>
 
 
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md bg-white rounded-lg shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Database
@@ -419,7 +419,7 @@ function Stack() {
           </div>
         </div>
 
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md bg-white rounded-lg shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Mobile Development
@@ -520,7 +520,7 @@ function Stack() {
         </div>
 
 
-        <div class="p-4 max-w-md bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
+        <div class="p-4 max-w-md bg-white rounded-lg shadow-md sm:p-8 dark:bg-gray-100 dark:border-gray-700">
           <div class="flex justify-between items-center mb-4">
             <h5 class="text-l font-bold leading-none text-gray-900 dark:text-black">
               Testing & Quality Assurance

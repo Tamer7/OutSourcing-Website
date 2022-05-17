@@ -3,6 +3,9 @@ import React from 'react';
 import Header from '../partials/Header';
 import WebDevView from '../partials/WebDevView';
 import Footer from '../partials/Footer';
+import Testimonials from '../partials/Testimonials';
+import Newsletter from '../partials/Newsletter';
+import Stack from '../partials/Stack';
 
 function WebDev() {
   return (
@@ -16,6 +19,9 @@ function WebDev() {
 
         {/*  Page sections */}
         <WebDevView />
+        <Stack/>
+        <Testimonials/>
+        <Newsletter/>
 
 
       </main>
