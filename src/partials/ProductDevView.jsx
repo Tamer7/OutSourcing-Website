@@ -178,6 +178,7 @@ function CSDView() {
           </h1>
         </div>
 
+<<<<<<< HEAD
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -244,11 +245,29 @@ function CSDView() {
               client's goals, we leverage our
               domain knowledge to drafta
               customized software solution.
+=======
+        <div className="grid lg:grid-cols-3">
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={faster}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Faster Onboarding</div>
+              <p class="text-gray-700 text-base">
+              We hold an upper hand in
+              diversified projects of any
+              technology or industry or size of the
+              project and make solutions
+              imperceptible in regards to time,
+              culture and location.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
-          </div>
+            <div class="px-6 pt-4 pb-2">
 
-
+<<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
               <button
@@ -308,6 +327,20 @@ function CSDView() {
               Database Decision Making
               </h5>
               <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
+=======
+            </div>
+          </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={db}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Database Decision Making</div>
+              <p class="text-gray-700 text-base">
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               We haveaknack of business
               knowledge and can convert your
               business objectives into reality with
@@ -315,8 +348,9 @@ function CSDView() {
               customized solutions.
               </p>
             </div>
-          </div>
+            <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
             <div className="flex justify-end px-4 pt-4">
@@ -383,12 +417,33 @@ function CSDView() {
               project and make solutions
               imperceptible in regards to time,
               culture and location.
+=======
+            </div>
+          </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={goals}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Business Goals & Insights</div>
+              <p class="text-gray-700 text-base">
+              We dive deeper into short-term
+              and long-term vision of the project
+              and after getting acquainted with
+              client's goals, we leverage our
+              domain knowledge to drafta
+              customized software solution.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
+
             </div>
           </div>
         </div>
-
-
         {/* End of Section Three */}
 
         {/* Section Four */}

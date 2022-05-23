@@ -14,20 +14,19 @@
     "@headlessui/react": "^1.6.2",
     "@tailwindcss/forms": "^0.4.0",
     "aos": "^3.0.0-beta.6",
+<<<<<<< HEAD
     "dotenv": "^16.0.1",
     "emailjs-com": "^3.2.0",
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
     "expo-linear-gradient": "^11.3.0",
     "react": "^17.0.2",
     "react-calendly": "^4.0.1",
     "react-dom": "^17.0.2",
     "react-flatpickr": "^3.10.7",
     "react-router-dom": "^6.2.1",
-    "react-swal": "^3.0.0",
     "react-transition-group": "^4.4.1",
-    "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^2.1.2",
-    "sticky-js": "^1.3.0",
-    "sweetalert2": "^11.4.14"
+    "sticky-js": "^1.3.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",

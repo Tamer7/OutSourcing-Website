@@ -192,6 +192,7 @@ function CSDView() {
           </h1>
         </div>
 
+<<<<<<< HEAD
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -255,11 +256,28 @@ function CSDView() {
                 We explore the client's business and portfolio deeply and
                 recommenda strategic digital transformation plan considering
                 multiple aspects in mind.
+=======
+        <div className="grid lg:grid-cols-3">
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={progress}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Progressive Roadmap</div>
+              <p class="text-gray-700 text-base">
+              We explore the client's business and
+              portfolio deeply and recommenda
+              strategic digital transformation plan
+              considering multiple aspects in
+              mind.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
-          </div>
+            <div class="px-6 pt-4 pb-2">
 
-
+<<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
               <button
@@ -323,10 +341,30 @@ function CSDView() {
                 to proposals,on-time schedules, meeting project deadlines,and
                 fulfilling end-user expectations.
               </p>
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
             </div>
           </div>
 
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={management}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Efficient Software Project Management</div>
+              <p class="text-gray-700 text-base">
+              Our holistic project management
+              approach offers timely response to
+              proposals,on-time schedules,
+              meeting project deadlines,and
+              fulfilling end-user expectations.
+              </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
             <div className="flex justify-end px-4 pt-4">
               <button
@@ -389,7 +427,29 @@ function CSDView() {
               Withaunique amalgamation of skilled developers and cutting-edge
                 technologies,we enable transparency and scalability at all
                 engagement levels.
+=======
+            </div>
+          </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={flexible}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Flexible Engagement Model</div>
+              <p class="text-gray-700 text-base">
+              Withaunique amalgamation of
+              skilled developers and cutting-edge
+              technologies,we enable
+              transparency and scalability at all
+              engagement levels.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
+
             </div>
           </div>
         </div>

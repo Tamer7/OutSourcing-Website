@@ -189,6 +189,7 @@ function WebDevView() {
           </h1>
         </div>
 
+<<<<<<< HEAD
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -254,11 +255,28 @@ function WebDevView() {
               of web app development projects
               assuring on-time delivery and
               agility.
+=======
+        <div className="grid lg:grid-cols-3">
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={delivey}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Consistent Delivery</div>
+              <p class="text-gray-700 text-base">
+              We combine our efforts with an
+              agile and iterative approach to
+              ensure timely deliveries despite
+              tight deadlines, rework, and
+              reschedules.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
-          </div>
+            <div class="px-6 pt-4 pb-2">
 
-
+<<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
               <button
@@ -318,6 +336,20 @@ function WebDevView() {
               On-Scale Demand
               </h5>
               <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
+=======
+            </div>
+          </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={demand}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">On-Scale Demand</div>
+              <p class="text-gray-700 text-base">
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               We employ web developers into
               different projects and assignments
               as per the need. Let your unique
@@ -325,9 +357,9 @@ function WebDevView() {
               skilled specialists!
               </p>
             </div>
-          </div>
+            <div class="px-6 pt-4 pb-2">
 
-
+<<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
             <div className="flex justify-end px-4 pt-4">
               <button
@@ -392,7 +424,29 @@ function WebDevView() {
               ensure timely deliveries despite
               tight deadlines, rework, and
               reschedules.
+=======
+            </div>
+          </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={flexible}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Flexible Engagement Model</div>
+              <p class="text-gray-700 text-base">
+              We provide flexible engagement
+              models using our skills for all types
+              of web app development projects
+              assuring on-time delivery and
+              agility.
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
+
             </div>
           </div>
         </div>

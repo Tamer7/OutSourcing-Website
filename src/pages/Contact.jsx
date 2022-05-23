@@ -11,13 +11,13 @@ import Stack from '../partials/Stack';
 
 function Contact() {
   return (
-    <div  className="flex flex-col min-h-screen overflow-hidden">
+    <div>
 
       {/*  Site header */}
       <Header />
 
       {/*  Page content */}
-      <main className="flex-grow mt-20">
+      <main className="flex-grow">
 
         {/*  Page sections */}
         <ContactView />
