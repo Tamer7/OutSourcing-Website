@@ -322,6 +322,7 @@ function CSDView() {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -390,6 +391,8 @@ function CSDView() {
 =======
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
         <div className="grid lg:grid-cols-3">
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
             <img
@@ -407,6 +410,9 @@ function CSDView() {
               mundane tasks with 100% consistent and
                         accurate results.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
@@ -414,6 +420,7 @@ function CSDView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -480,6 +487,9 @@ function CSDView() {
 =======
             </div>
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -492,6 +502,9 @@ function CSDView() {
               <div class="font-bold text-xl mb-2">Cost Effectiveness</div>
               <p class="text-gray-700 text-base">
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
@@ -504,6 +517,7 @@ function CSDView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
@@ -576,6 +590,9 @@ function CSDView() {
 =======
             </div>
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -592,6 +609,9 @@ function CSDView() {
               of quicker testing and wider coverage provided
                           by test automation.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design

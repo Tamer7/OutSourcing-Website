@@ -3,7 +3,10 @@ import Transition from '../utils/Transition';
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 import FeaturesBg from '../images/50.png';
@@ -31,12 +34,15 @@ function AboutUs() {
     <section className="relative">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       {/* Section background (needs .relative className on parent and next sibling elements) */}
       <div
         className="absolute inset-0 bg-gray-100 pointer-events-none mb-16"
         aria-hidden="true"
       ></div>
 =======
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 
@@ -111,6 +117,7 @@ function AboutUs() {
                   </div>
                 </a>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           <div className="md:grid md:grid-cols-12 md:gap-6">
@@ -362,6 +369,108 @@ function AboutUs() {
                     <div className="font-bold leading-snug tracking-tight text-left mb-1">
                       <h1 className="font-bold text-2xl">Web Development</h1>
                     </div>
+=======
+                <a
+                  className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${tab !== 1 ? 'bg-white shadow-md border-gray-200 hover:shadow-lg' : 'bg-gray-200 border-transparent'}`}
+                  href="#0"
+                  onClick={(e) => { e.preventDefault(); setTab(4); }}
+                >
+                  <div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Testing and Quality Assurance</div>
+                    <div className="text-gray-600">We maintain quality assurance by rectifying errors and debugging applications for a high performing application</div>
+                  </div>
+                  <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
+                    <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M11.953 4.29a.5.5 0 00-.454-.292H6.14L6.984.62A.5.5 0 006.12.173l-6 7a.5.5 0 00.379.825h5.359l-.844 3.38a.5.5 0 00.864.445l6-7a.5.5 0 00.075-.534z" />
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
+
+            {/* Tabs items */}
+            <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="zoom-y-out" ref={tabs}>
+              <div className="relative flex flex-col text-center lg:text-right">
+                {/* Item 1 */}
+                <Transition
+                  show={tab === 1}
+                  appear={true}
+                  className="w-full"
+                  enter="transition ease-in-out duration-700 transform order-first"
+                  enterStart="opacity-0 translate-y-16"
+                  enterEnd="opacity-100 translate-y-0"
+                  leave="transition ease-in-out duration-300 transform absolute"
+                  leaveStart="opacity-100 translate-y-0"
+                  leaveEnd="opacity-0 -translate-y-16"
+                >
+                  <div className="relative inline-flex flex-col">
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <div className="font-bold leading-snug tracking-tight text-left mb-1">
+                      <h1 className="font-bold text-2xl">Custom Software Development</h1>
+                    </div>
+                    <br></br>
+                    <div className="relative inline-flex flex-col text-left">
+                    The custom software development process encompasses designing, developing, 
+                    deploying, and maintaining custom software solutions and services. 
+                    Asaleading custom software development company, our domain experts explicate 
+                    the client's views and accordingly draft astrategic approach to optimize each process 
+                    of the Software development life cycle. Our dynamic team of skilled software developers, 
+                    architects and project managers coupled with industry-driven experience providesasolid 
+                    foundation to develop agile custom software solutions with consistently high-quality results, 
+                    dedicated QA practices that match specific business needs, budget, and time.
+                    </div>
+
+                    <br></br>
+
+                    <div className="relative inline-flex flex-col text-left">
+                    <ul class="list-disc relative">
+                      <li className=" relative w-full left-10 text-blue-600 ">Software Development</li>
+                      <li className=" relative w-full left-10 text-blue-600">Application Migration and Re-engineering</li>
+                      <li className=" relative w-full left-10 text-blue-600">Software Application Development</li>
+                      <li className=" relative w-full left-10 text-blue-600">SASS Applications</li>
+                      <li className=" relative w-full left-10 text-blue-600">Application Integration</li>
+                    </ul>
+                    </div>
+
+                    <div className="relative inline-flex flex-col">
+                    <img className="md:max-w-none absolute w-full right-10 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} />
+                  </div>
+                  </div>
+
+                  
+
+                  
+                </Transition>
+                {/* Item 2 */}
+                <Transition
+                  show={tab === 2}
+                  appear={true}
+                  className="w-full"
+                  enter="transition ease-in-out duration-700 transform order-first"
+                  enterStart="opacity-0 translate-y-16"
+                  enterEnd="opacity-100 translate-y-0"
+                  leave="transition ease-in-out duration-300 transform absolute"
+                  leaveStart="opacity-100 translate-y-0"
+                  leaveEnd="opacity-0 -translate-y-16"
+                >
+                  <div className="relative inline-flex flex-col">
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <div className="font-bold leading-snug tracking-tight text-left mb-1">
+                      <h1 className="font-bold text-2xl">Web Development</h1>
+                    </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
                     <br></br>
                     <div className="relative inline-flex flex-col text-left">
                     We bring revolution to reality. Transforming your custom business ideas into an innovative next-gen web app is our forte. With proven
@@ -371,6 +480,7 @@ function AboutUs() {
                     disruptive user-friendly web applications with superior customer experience and higher business agility.
                     </div>
                     <br></br>
+<<<<<<< HEAD
 
                     <div className="relative inline-flex flex-col text-left">
                     <ul class="list-disc relative">
@@ -533,6 +643,85 @@ function AboutUs() {
                       <li className=" relative w-full left-10 text-blue-600">Product Development and Deployment</li>
                       <li className=" relative w-full left-10 text-blue-600">Product Testing</li>
                       <li className=" relative w-full left-10 text-blue-600">UX/UI Services</li>
+=======
+
+                    <div className="relative inline-flex flex-col text-left">
+                    <ul class="list-disc relative">
+                      <li className=" relative w-full left-10 text-blue-600 ">Front-End Web Development</li>
+                      <li className=" relative w-full left-10 text-blue-600">Back-End Web Development</li>
+                      <li className=" relative w-full left-10 text-blue-600">Progressive Web Applications</li>
+                      <li className=" relative w-full left-10 text-blue-600">SASS Applications</li>
+                      <li className=" relative w-full left-10 text-blue-600">Custom Web Application Services</li>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+                    </ul>
+                    </div>
+                    <div className="relative inline-flex flex-col">
+                    <img className="md:max-w-none absolute w-full right-10 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} />
+                  </div>
+                  </div>
+                </Transition>
+<<<<<<< HEAD
+
+                                {/* Item 4 */}
+                                <Transition
+                  show={tab === 4}
+=======
+                {/* Item 3 */}
+                <Transition
+                  show={tab === 3}
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+                  appear={true}
+                  className="w-full"
+                  enter="transition ease-in-out duration-700 transform order-first"
+                  enterStart="opacity-0 translate-y-16"
+                  enterEnd="opacity-100 translate-y-0"
+                  leave="transition ease-in-out duration-300 transform absolute"
+                  leaveStart="opacity-100 translate-y-0"
+                  leaveEnd="opacity-0 -translate-y-16"
+                >
+                  <div className="relative inline-flex flex-col">
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <div className="font-bold leading-snug tracking-tight text-left mb-1">
+<<<<<<< HEAD
+                      <h1 className="font-bold text-2xl">Quality Assurance</h1>
+                    </div>
+                    <br></br>
+                    <div className="relative inline-flex flex-col text-left">
+                    Empower your business for Next-Gen applications by implementing the best software testing methodologies and tools. Our innovative
+                    and forward-thinking approach eliminates errors, reduces overall cycle time and minimizes bugs. Keeping clients' customized
+                    requirements at the center, we offeracomprehensive set of manual and automated testing services adhering to standard quality
+                    assurance for best practices and processes. Our dedicated team of resourceful QA engineers perform high-quality QA testing to provide
+                    reliable, scalable and robust software solutions.
+                    </div>
+                    <br></br>
+
+=======
+                      <h1 className="font-bold text-2xl">Product Development</h1>
+                    </div>
+                    <br></br>
+                    <div className="relative inline-flex flex-col text-left">
+                    To convert your vision into reality, we assist you from software product ideation to design, development, release, and maintenance.
+                    Every successful product is unique in its market and with its uniqueness, it brings risk and uncertainties during the software product
+                    development process. We asaleading software product development company conceptualize and strategize the entire roadmap to
+                    reduce the risk, keep time and development cost under control and provide high-quality stable product. With highly collaborative
+                    approach, we understand the scope, business scenarios and potential user types to createaproduct with good UX, cloud, data and
+                    security as their prime focus.
+                    </div>
+                    <br></br>
+
+                    <div className="relative inline-flex flex-col text-left">
+                    <ul class="list-disc relative">
+                      <li className=" relative w-full left-10 text-blue-600 ">MVP and Prototyping</li>
+                      <li className=" relative w-full left-10 text-blue-600">Product Architecture</li>
+                      <li className=" relative w-full left-10 text-blue-600">Product Development and Deployment</li>
+                      <li className=" relative w-full left-10 text-blue-600">Product Testing</li>
+                      <li className=" relative w-full left-10 text-blue-600">UX/UI Services</li>
                     </ul>
                     </div>
                     <div className="relative inline-flex flex-col">
@@ -574,6 +763,7 @@ function AboutUs() {
                     </div>
                     <br></br>
 
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
                       <h1 className="font-bold text-2xl">Product Development</h1>
                     </div>

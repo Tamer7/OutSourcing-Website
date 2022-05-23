@@ -191,6 +191,7 @@ function WebDevView() {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -259,6 +260,8 @@ function WebDevView() {
 =======
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
         <div className="grid lg:grid-cols-3">
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
             <img
@@ -275,6 +278,9 @@ function WebDevView() {
               tight deadlines, rework, and
               reschedules.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
@@ -282,6 +288,7 @@ function WebDevView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -348,6 +355,9 @@ function WebDevView() {
 =======
             </div>
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -360,6 +370,9 @@ function WebDevView() {
               <div class="font-bold text-xl mb-2">On-Scale Demand</div>
               <p class="text-gray-700 text-base">
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
@@ -372,6 +385,7 @@ function WebDevView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
@@ -443,6 +457,9 @@ function WebDevView() {
 =======
             </div>
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -460,6 +477,9 @@ function WebDevView() {
               assuring on-time delivery and
               agility.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
