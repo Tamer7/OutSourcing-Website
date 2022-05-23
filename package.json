@@ -15,8 +15,11 @@
     "@tailwindcss/forms": "^0.4.0",
     "aos": "^3.0.0-beta.6",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "dotenv": "^16.0.1",
     "emailjs-com": "^3.2.0",
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
 =======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
     "expo-linear-gradient": "^11.3.0",

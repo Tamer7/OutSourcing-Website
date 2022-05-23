@@ -179,6 +179,7 @@ function CSDView() {
         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -246,6 +247,8 @@ function CSDView() {
               domain knowledge to drafta
               customized software solution.
 =======
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
         <div className="grid lg:grid-cols-3">
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
             <img
@@ -262,11 +265,15 @@ function CSDView() {
               project and make solutions
               imperceptible in regards to time,
               culture and location.
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -329,6 +336,9 @@ function CSDView() {
               <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
 =======
             </div>
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -340,6 +350,9 @@ function CSDView() {
             <div class="px-6 py-4">
               <div class="font-bold text-xl mb-2">Database Decision Making</div>
               <p class="text-gray-700 text-base">
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               We haveaknack of business
               knowledge and can convert your
@@ -350,6 +363,7 @@ function CSDView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
@@ -418,8 +432,33 @@ function CSDView() {
               imperceptible in regards to time,
               culture and location.
 =======
+=======
             </div>
           </div>
+
+          <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
+            <img
+              class="mx-auto"
+              src={goals}
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Business Goals & Insights</div>
+              <p class="text-gray-700 text-base">
+              We dive deeper into short-term
+              and long-term vision of the project
+              and after getting acquainted with
+              client's goals, we leverage our
+              domain knowledge to drafta
+              customized software solution.
+              </p>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+            </div>
+            <div class="px-6 pt-4 pb-2">
+
+            </div>
+          </div>
+<<<<<<< HEAD
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
             <img
@@ -443,6 +482,8 @@ function CSDView() {
 
             </div>
           </div>
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
         </div>
         {/* End of Section Three */}
 

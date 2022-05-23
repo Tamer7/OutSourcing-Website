@@ -321,6 +321,7 @@ function CSDView() {
         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         <div className="grid lg:grid-cols-3 space-x-4 align-items-center" >
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -387,6 +388,8 @@ function CSDView() {
               of quicker testing and wider coverage provided
               by test automation.
 =======
+=======
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
         <div className="grid lg:grid-cols-3">
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
             <img
@@ -403,11 +406,15 @@ function CSDView() {
               automation asasure-shot solution to excel in
               mundane tasks with 100% consistent and
                         accurate results.
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
             <div className="flex justify-end px-4 pt-4">
@@ -470,6 +477,9 @@ function CSDView() {
               <p className="text-sm text-gray-500 dark:text-gray-400 text-center p-2">
 =======
             </div>
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -481,6 +491,9 @@ function CSDView() {
             <div class="px-6 py-4">
               <div class="font-bold text-xl mb-2">Cost Effectiveness</div>
               <p class="text-gray-700 text-base">
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               Identification of errors at the right time can save
               man hours, reduce cost and fix problems faster.
@@ -491,6 +504,7 @@ function CSDView() {
             </div>
             <div class="px-6 pt-4 pb-2">
 
+<<<<<<< HEAD
 <<<<<<< HEAD
           <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
             <div className="flex justify-end px-4 pt-4">
@@ -559,6 +573,9 @@ function CSDView() {
               accurate results.
 =======
             </div>
+=======
+            </div>
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
           </div>
 
           <div class="border-4 border-indigo-00 border-t-indigo-500 rounded overflow-hidden shadow-lg">
@@ -574,6 +591,9 @@ function CSDView() {
               without compromising code quality with the help
               of quicker testing and wider coverage provided
                           by test automation.
+<<<<<<< HEAD
+>>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
+=======
 >>>>>>> parent of 166788b... Added about us and contact us page, with some small changes in design
               </p>
             </div>
